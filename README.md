@@ -50,7 +50,7 @@ aws configure --profile demo
     *	Created and configured EC2 instances with the necessary security groups and IAM roles.
 
 *	RDS (Relational Database Service)
-    *	Deployed a MySQL RDS instance with specified configurations.
+    *	Deployed a Postgres RDS instance with specified configurations.
 
 *	IAM (Identity and Access Management)
     *	Created an IAM role with policies for EC2 instances, and attached policies for CloudWatch and S3.
@@ -79,7 +79,7 @@ aws configure --profile demo
     *	Configured an IAM policy for DynamoDB access and attached it to the Lambda execution role.
 
 *	AWS S3
-    *	Created an S3 bucket named "pranav-bucket-1" with private ACL settings.
+    *	Created an S3 bucket with private ACL settings.
 
 
 ```Google Cloud Platform (GCP) Resources```
