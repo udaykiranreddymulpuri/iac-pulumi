@@ -84,7 +84,7 @@ aws configure --profile demo
 
 ```Google Cloud Platform (GCP) Resources```
 *	Cloud Storage (GCS)
-    *	Created a GCS bucket named "csye6225_demo_gcs_bucket" with versioning enabled.
+    *	Created a GCS bucket with versioning enabled.
 *	GCP IAM
     *	Created a service account with necessary permissions and associated it with the GCS bucket.
 
