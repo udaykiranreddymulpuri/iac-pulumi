@@ -28,10 +28,10 @@ aws configure --profile demo
 ```AWS Infrastructure Components```
 
 *	Virtual Private Cloud (VPC)
-    *	Created a VPC named "myVPC" with a specified CIDR block.
+    *	Created a VPC with a specified CIDR block.
 
 *	Internet Gateway
-    *	Created and attached an Internet Gateway named "myInternetGateway" to the VPC.
+    *	Created and attached an Internet Gateway to the VPC.
 
 *	Availability Zones
     * Queried and obtained the first three availability zones.
